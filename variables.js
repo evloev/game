@@ -1,0 +1,2 @@
+let nameGame
+let nameDescription
